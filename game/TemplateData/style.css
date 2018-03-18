@@ -1,0 +1,14 @@
+body {
+    overflow: hidden;
+    margin: 0px;
+    padding: 0px;
+}
+
+.fullscreen {
+    position: relative;
+    top: -75px;
+    right: -268px;
+    background-image: url('fullscreen.png');
+    width: 32px;
+    height: 32px;
+}
